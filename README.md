@@ -1,14 +1,13 @@
 # [pure view] 🎯
 
 
-## Basic Details
+## A Python-based tool that extracts text from a PDF and converts it into a voice note(audio file)
 ### Team Name: [Ode to Code]
 
 
 ### Team Members
 - Member 1: [DEVIKA P] - [College of Engineering Pathanapuram]
 - Member 2: [ANUSREE T] - [College of Engineering Pathanapuram]
-- Member 3: [Name] - [College]
 
 ### Hosted Project Link
 [(https://pureview.vercel.app/)]
@@ -93,7 +92,7 @@ For Hardware:
 ## Team Contributions
 - [DEVIKA P]: [Make the design]
 - [ANUSREE T]: [Develop the code]
-- [Name 3]: [Specific contributions]
+
 
 ---
 Made with ❤️ at TinkerHub
