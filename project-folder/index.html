@@ -1,0 +1,45 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PDF to Voice, Notes & Questions with Gemini AI</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>PDF to Voice, Notes & Questions</h1>
+        <input type="file" id="pdf-file" accept=".pdf">
+        
+        <div id="controls">
+            <button id="convert-to-voice">🔊 Convert to Voice</button>
+            <button id="generate-notes">📝 Generate Short Notes</button>
+            <button id="extract-questions">❓ Extract Questions</button>
+            <button id="pause-voice">⏸ Pause</button>
+            <button id="resume-voice">▶ Resume</button>
+            <button id="stop-voice">⏹ Stop</button>
+        </div>
+
+        <div id="output">
+            <p><strong>Extracted Text:</strong></p>
+            <textarea id="pdf-text" rows="10" readonly></textarea>
+            <p><strong>Short Notes:</strong></p>
+            <textarea id="short-notes" rows="5" readonly></textarea>
+            <p><strong>Possible Questions:</strong></p>
+            <textarea id="questions-output" rows="5" readonly></textarea>
+        </div>
+
+        <div id="loading">
+            <img src="assets/loading-spinner.gif" alt="Loading...">
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.10.377/pdf.min.js"></script>
+    <script src="js/pdf-utils.js"></script>
+    <script src="js/voice-utils.js"></script>
+    <script src="js/ai-utils.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>
+
