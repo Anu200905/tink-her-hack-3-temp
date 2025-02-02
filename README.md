@@ -1,34 +1,34 @@
-# [Project Name] 🎯
+# [pure view] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Ode to Code]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: [DEVIKA P] - [College of Engineering Pathanapuram]
+- Member 2: [ANUSREE T] - [College of Engineering Pathanapuram]
 - Member 3: [Name] - [College]
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+[(https://pureview.vercel.app/)]
 
 ### Project Description
-[2-3 lines about what your project does]
+[This tool is designed to help users listen to their documents, making it useful for students, professionals, and individuals with visual impairments.]
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+[To make the PDF content clearer, we have decided to develop a website that converts PDFs into voice notes, summaries, and potential questions.]
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+[To save everyone from the headache of vague PDFs, we’re building a website that transforms them into voice notes, bite-sized summaries, and possible quiz questions—because who has time to decode PDFs like ancient scrolls?]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [python]
+- [js]
+- [pdf.js]
+- [Gemini ai]
 
 For Hardware:
 - [List main components]
@@ -47,8 +47,8 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot1]![cover](https://github.com/user-attachments/assets/4460edfc-456d-4e5a-b937-27ecb9e64486)
+Home Page.
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
@@ -91,8 +91,8 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
+- [DEVIKA P]: [Make the design]
+- [ANUSREE T]: [Develop the code]
 - [Name 3]: [Specific contributions]
 
 ---
